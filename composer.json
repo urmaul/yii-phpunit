@@ -1,7 +1,7 @@
 {
 	"name": "urmaul/yii-phpunit",
 	"type": "metapackage",
-	"description": "Meta package with all dependencies needed to run phpunit on yii.",
+	"description": "Meta package with all dependencies needed to run phpunit with yii.",
 	"keywords": ["yii", "phpunit", "meta"],
 	"homepage": "https://github.com/urmaul/yii-phpunit",
 	"license": "MIT",
